@@ -28,7 +28,6 @@ services:
         title: 'LLL:EXT:custom_dashboard_widgets/Resources/Private/Language/locallang.xlf:widgets.typeOfPages.title'
         description: 'LLL:EXT:custom_dashboard_widgets/Resources/Private/Language/locallang.xlf:widgets.typeOfPages.description'
         iconIdentifier: 'tx-custom_dashboard_widgets-extension-icon'
-        additionalCssClasses: 'dashboard-item--chart'
         height: 'medium'
         width: 'medium'
 
@@ -51,6 +50,5 @@ services:
         title: 'LLL:EXT:custom_dashboard_widgets/Resources/Private/Language/locallang.xlf:widgets.typeOfContent.title'
         description: 'LLL:EXT:custom_dashboard_widgets/Resources/Private/Language/locallang.xlf:widgets.typeOfContent.description'
         iconIdentifier: 'tx-custom_dashboard_widgets-extension-icon'
-        additionalCssClasses: 'dashboard-item--chart'
         height: 'medium'
         width: 'medium'
